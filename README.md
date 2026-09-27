@@ -57,6 +57,10 @@ Exploratory analysis of Uber trip data for New York City (January–June 2015) u
 
 The heatmap was created with Folium `HeatMapWithTime` to explore how pickup activity changes by hour.
 
+### Interactive Uber Heatmap
+
+[Open the interactive heatmap](https://rahulgoswami1506.github.io/uber-data-analysis/)
+
 ## Project Files
 
 - `Uber_Data_Analysis_GitHub_clean.ipynb` – cleaned, GitHub-friendly notebook containing the analysis and visual outputs.
