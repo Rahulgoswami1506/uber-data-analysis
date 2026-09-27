@@ -35,21 +35,21 @@ Exploratory analysis of Uber trip data for New York City (January–June 2015) u
 
 ## Key Visualizations
 
-### Uber Pickups by Month & Weekday
+### Uber Pickups by Month & Weekdays
 
-![Uber Pickups by Month & Weekday](Monthly_Weekday_Trips.png)
+![Uber Pickups by Month & Weekdays](<Uber pickups by Month & Weekdays.png>)
 
-### Hourly Uber Rush by Day
+### Hourly Uber Rush by Days
 
-![Hourly Uber Rush by Day](Hourly_Uber_Rush_by_Day.png)
+![Hourly Uber Rush by Days](<Hourly Uber Rush by days.png>)
 
-### Pareto Analysis of Uber Bases
+### Pareto Base Analysis
 
-![Pareto Analysis of Uber Bases](Pareto_Analysis_of_Uber_Bases.png)
+![Pareto Base Analysis](<Pareto base analysis.png>)
 
 ### Airport Demand Pressure
 
-![Airport Demand Pressure](Airport_Demand_Pressure.png)
+![Airport Demand Pressure](<Airport Demand Pressure.png>)
 
 ### Hourly Spatial Demand
 
